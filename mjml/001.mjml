@@ -1,0 +1,424 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-preview>preview&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>title</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header.mjml" />
+        <!-- Текст -->
+        <mj-section mj-class="divider50"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="30px">
+                    Утомила жара в&nbsp;июле? Хотите быть ближе к&nbsp;воде? Новостройки Москвы у&nbsp;реки стали доступнее этим летом
+                </mj-text>
+                <mj-text mj-class="text-15-22  align--center" padding-bottom="30px">
+                    Летом недвижимость у&nbsp;воды вызывает наибольший интерес у&nbsp;клиентов. Застройщики предлагают все новые способы покупки&nbsp;— ипотечные программы с&nbsp;минимальной ставкой, гибкие условия рассрочки и&nbsp;акции со&nbsp;скидкой до&nbsp;20% на&nbsp;покупку квартиры.
+                </mj-text>
+                <mj-text mj-class="text-15-22  align--center">
+                    В&nbsp;этом письме мы&nbsp;собрали горячие предложения в&nbsp;новостройках Москвы, а&nbsp;также ожидаемые старты, которые нельзя упустить
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Католог -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="button__catalog-column">
+                <mj-social mj-class="button__catalog">
+                    <mj-social-element mj-class="button__catalog-element"
+                                       href="#"
+                                       src="https://caezar47.github.io/ricci/img/tpl/catalog.png">
+                        Скачать полный каталог новостроек у воды
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Баннер -->
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/001/main-banner.jpg"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Текст -->
+        <mj-section mj-class="content">
+            <mj-column mj-class="mw-530" css-class="dib  mw-530" padding="0">
+                <mj-text mj-class="text-15-22  align--center  fs--italic  fw--700">
+                    Для наших клиентов мы&nbsp;выделили те&nbsp;жилые комплексы у&nbsp;воды, на&nbsp;которые стоит обратить особое внимание
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+
+        <!-- Карта -->
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/001/map.jpg"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Новостройка 1 -->
+        <mj-section padding="0" css-class="mw-604">
+            <mj-group>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item1-1.jpg"
+                    />
+                </mj-column>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item1-2.jpg"
+                    />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="8px">
+                    Level Причальный
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--success" padding-bottom="20px">
+                    Лучшие условия по покупке квартиры только в июле 2022 года
+                </mj-text>
+                <mj-text mj-class="text-12-20  color--success" padding-bottom="20px">
+                    <ul class="list">
+                        <li>Жилой комплекс бизнес-класса на&nbsp;первой береговой линии Москвы-реки</li>
+                        <li>40% видовых квартир с&nbsp;панорамными окнами на&nbsp;реку и&nbsp;Москва-сити</li>
+                        <li>Пешая доступность от&nbsp;станции метро «Шелепиха»</li>
+                    </ul>
+                </mj-text>
+                <mj-section padding="0">
+                    <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
+                        <mj-social mj-class="button__download">
+                            <mj-social-element mj-class="button__download-element"
+                                               href="#"
+                                               src="https://caezar47.github.io/ricci/img/tpl/download.png">
+                                Скачать презентацию проекта
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Новостройка 2 -->
+        <mj-section padding="0" css-class="mw-604">
+            <mj-group>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item2-1.jpg"
+                    />
+                </mj-column>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item2-2.jpg"
+                    />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="8px">
+                    River Park Towers
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--success" padding-bottom="20px">
+                    Премьера 2022&nbsp;года: комплекс небоскрёбов на&nbsp;Кутузовском с&nbsp;лучшими видами на&nbsp;воду и&nbsp;центр Москвы
+                </mj-text>
+                <mj-text mj-class="text-12-20  color--success" padding-bottom="20px">
+                    <ul class="list">
+                        <li>Видовые квартиры на&nbsp;Москва-сити, Филёвский парк и&nbsp;Парк Победы</li>
+                        <li>Благоустроенная территория, богатая инфраструктура и&nbsp;прямой доступ к&nbsp;набережной</li>
+                        <li>Самый широкий выбор квартир: с&nbsp;премиальной отделкой под ключ, whitebox и&nbsp;без отделки, а&nbsp;также уникальные форматы с&nbsp;террасой</li>
+                    </ul>
+                </mj-text>
+                <mj-section padding="0">
+                    <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
+                        <mj-social mj-class="button__download">
+                            <mj-social-element mj-class="button__download-element"
+                                               href="#"
+                                               src="https://caezar47.github.io/ricci/img/tpl/download.png">
+                                Скачать презентацию проекта
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Новостройка 3 -->
+        <mj-section padding="0" css-class="mw-604">
+            <mj-group>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item3-1.jpg"
+                    />
+                </mj-column>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item3-2.jpg"
+                    />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="8px">
+                    ЖК WOW
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--success" padding-bottom="20px">
+                    Новый проект бизнес-класса в&nbsp;Даниловском районе Москвы
+                </mj-text>
+                <mj-text mj-class="text-12-20  color--success" padding-bottom="20px">
+                    <ul class="list">
+                        <li>Комплекс строится на&nbsp;полуострове в&nbsp;Нагатино, в&nbsp;5&nbsp;минутах ходьбы от&nbsp;набережной Москвы-реки</li>
+                        <li>Геометричная авторская архитектура от&nbsp;бюро APEX</li>
+                        <li>Необычные планировки: квартиры-патио, с&nbsp;террасами, пентхаусы с&nbsp;окнами в&nbsp;ванных комнатах</li>
+                    </ul>
+                </mj-text>
+                <mj-section padding="0">
+                    <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
+                        <mj-social mj-class="button__download">
+                            <mj-social-element mj-class="button__download-element"
+                                               href="#"
+                                               src="https://caezar47.github.io/ricci/img/tpl/download.png">
+                                Скачать презентацию проекта
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Новостройка 4 -->
+        <mj-section padding="0" css-class="mw-604">
+            <mj-group>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item4-1.jpg"
+                    />
+                </mj-column>
+                <mj-column mj-class="building__img-column  mw-50p">
+                    <mj-image padding="0"
+                              src="https://caezar47.github.io/ricci/img/001/building-item4-2.jpg"
+                    />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="8px">
+                    BOGENHOUSE
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--success" padding-bottom="20px">
+                    Последний лот класса делюкс в&nbsp;клубном доме BOGENHOUSE
+                </mj-text>
+                <mj-text mj-class="text-12-20  color--success" padding-bottom="20px">
+                    <ul class="list">
+                        <li>Расположен в&nbsp;самой тихой локации района Замоскворечье, всего в&nbsp;5&nbsp;минутах от&nbsp;Кремля</li>
+                        <li> Подземный паркинг, приватная лаунж-зона и&nbsp;закрытый внутренний двор</li>
+                        <li> Выполнен в&nbsp;строгом, современном и&nbsp;минималистичном стиле</li>
+                    </ul>
+                </mj-text>
+                <mj-section padding="0">
+                    <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
+                        <mj-social mj-class="button__download">
+                            <mj-social-element mj-class="button__download-element"
+                                               href="#"
+                                               src="https://caezar47.github.io/ricci/img/tpl/download.png">
+                                Скачать презентацию проекта
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Подсказка -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="help">
+                <mj-group width="100%" >
+                    <mj-column mj-class="help__column-left">
+                        <mj-image
+                                src="https://caezar47.github.io/ricci/img/tpl/help.png"
+                                padding="0"/>
+                    </mj-column>
+                    <mj-column mj-class="help__column-right">
+                        <mj-text mj-class="help__name">
+                            <a class="color--success" href="https://stroi.mos.ru/news/pliazh-pirs-rybalka-zhilyie-komplieksy-otkryvaiut-dostup-k-moskvie-riekie" target="_black">Масштабные планы</a> по&nbsp;реконструкции набережных Москвы-реки дают дополнительную ценность объектам у&nbsp;воды, позволяя жильцам иметь доступ к&nbsp;обустроенным местам для занятий спортом, а&nbsp;также к&nbsp;использованию водных маршрутов
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Старт продаж -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Ожидаемые старты продаж у воды
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section padding="0" css-class="mw-606">
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item1.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «Саввинская 27»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    Level Group
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item2.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «Северный речной порт»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    Capital Group
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item3.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «Саввинская 17»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    Level Group
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" css-class="mw-606">
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item4.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «Софийский»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    MR Private
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item5.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «Красный октябрь»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    Гута
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
+                <mj-image padding="0"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item6.jpg"
+                />
+                <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
+                    ЖК «OPUS»
+                </mj-text>
+                <mj-text mj-class="text-12-18 align--center  color--success">
+                    Pioneer
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Преимущества -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Почему стоит выбрать именно Ricci?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider35"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        <span class="fw--700">Ricci premium</span>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <span class="fw--700">ricci</span>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        В&nbsp;нашем штате более <span class="fw--700">180 брокеров и&nbsp;отраслевых специалистов</span> по&nbsp;направлению коммерческой, торговой и&nbsp;складской недвижимости, а&nbsp;также управлением активами
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Работаем с&nbsp;<span class="fw--700">крупнейшими застройщиками столицы:</span> в&nbsp;нашем портфеле более 150&nbsp;проектов. Реализовали сделок на&nbsp;сумму <span class="fw--700">более 500.000&nbsp;м²</span> недвижимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer.mjml" />
+
+    </mj-body>
+</mjml>

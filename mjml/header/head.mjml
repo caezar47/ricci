@@ -1,0 +1,303 @@
+<mj-breakpoint width="595px" />
+<mj-attributes>
+    <mj-all
+            font-family="Verdana, Arial, sans-serif"
+            color="#491839"
+    />
+    <mj-class name="fs--italic"
+              font-style="italic"
+    />
+    <mj-class name="fw--700"
+              font-weight="700"
+    />
+    <mj-class name="td--underline"
+              text-decoration="underline"
+    />
+    <mj-class name="align--center"
+              align="center"
+    />
+    <mj-class name="h1"
+              font-size="18px"
+              line-height="26px"
+              padding="0"
+    />
+    <mj-class name="h2"
+              font-size="16px"
+              line-height="24px"
+              padding="0"
+    />
+    <mj-class name="text-11-18"
+              font-size="11px"
+              line-height="18px"
+              padding="0"
+    />
+    <mj-class name="text-12-18"
+              font-size="12px"
+              line-height="18px"
+              padding="0"
+    />
+    <mj-class name="text-12-20"
+              font-size="12px"
+              line-height="20px"
+              padding="0"
+    />
+    <mj-class name="text-13-16"
+              font-size="13px"
+              line-height="16px"
+              padding="0"
+    />
+    <mj-class name="text-14-20"
+              font-size="14px"
+              line-height="20px"
+              padding="0"
+    />
+    <mj-class name="text-15-22"
+              font-size="15px"
+              line-height="22px"
+              padding="0"
+    />
+    <mj-class name="text-16-20"
+              font-size="16px"
+              line-height="20px"
+              padding="0"
+    />
+    <mj-class name="divider10"
+              padding="0 0 10px"
+    />
+    <mj-class name="divider15"
+              padding="0 0 15px"
+    />
+    <mj-class name="divider20"
+              padding="0 0 20px"
+    />
+    <mj-class name="divider30"
+              padding="0 0 30px"
+    />
+    <mj-class name="divider35"
+              padding="0 0 35px"
+    />
+    <mj-class name="divider50"
+              padding="0 0 50px"
+    />
+    <mj-class name="mw-202"
+              width="202px"
+    />
+    <mj-class name="gap-0-8"
+              padding="0px 8px"
+    />
+    <mj-class name="gap-15-2"
+              padding="15px 2px"
+    />
+    <mj-class name="mw-50"
+              width="50px"
+    />
+    <mj-class name="mw-150"
+              width="150px"
+    />
+    <mj-class name="mw-184"
+              width="184px"
+    />
+    <mj-class name="mw-266"
+              width="266px"
+    />
+    <mj-class name="mw-290"
+              width="290px"
+    />
+    <mj-class name="mw-530"
+              width="530px"
+    />
+    <mj-class name="mw-50p"
+              width="50%"
+    />
+    <mj-class name="color--primary"
+              color="#491839"
+    />
+    <mj-class name="color--success"
+              color="#6D4661"
+    />
+    <mj-class name="color--black"
+              color="#000"
+    />
+    <mj-class name="color--white"
+              color="#fff"
+    />
+    <mj-class name="color--info"
+              color="#C8C8C8"
+    />
+    <mj-class name="content"
+              padding="0 15px"
+    />
+    <mj-class name="img--full"
+              padding="0"
+              width="600px"
+    />
+
+
+    <mj-class name="header"
+              full-width="full-width"
+              background-color="#491839"
+              padding="20px 0px"
+    />
+    <mj-class name="header__column"
+              vertical-align="middle"
+              padding="4px 0px"
+    />
+    <mj-class name="header__logo"
+              width="250px"
+              padding="0 0 4px"
+              align="center"
+    />
+
+    <mj-class name="button__catalog-column"
+              padding="0"
+              border="1px solid #6D4661"
+    />
+    <mj-class name="button__catalog"
+              padding="0"
+              inner-padding="0"
+              text-padding="0"
+              align="left"
+              container-background-color="#fff"
+    />
+    <mj-class name="button__catalog-element"
+              icon-size="40px"
+              padding="0"
+              border-radius="0"
+              inner-padding="0"
+              text-padding="10px 47px 10px 0"
+              icon-padding="14px 30px 14px 47px"
+              font-size="16px"
+              line-height="24px"
+              color="#491839"
+              align="center"
+              text-decoration="underline"
+    />
+    <mj-class name="button__download"
+              padding="0"
+              inner-padding="0"
+              text-padding="0"
+              align="center"
+              container-background-color="#491839"
+    />
+    <mj-class name="button__download-element"
+              icon-size="18px"
+              padding="0"
+              border-radius="0"
+              inner-padding="0"
+              text-padding="0 20px 0 0"
+              icon-padding="12px 10px 12px 20px"
+              font-size="14px"
+              line-height="14px"
+              color="#fff"
+              align="center"
+    />
+
+    <mj-class name="building__img-column"
+              padding="0 2px"
+    />
+
+    <mj-class name="help"
+              width="100%"
+              padding="30px"
+              border="1px solid #6D4661"
+    />
+    <mj-class name="help__column-left"
+              padding="0"
+              width="14%"
+              vertical-align="middle"
+    />
+    <mj-class name="help__column-right"
+              padding="0"
+              padding-left="20px"
+              width="86%"
+              vertical-align="middle"
+    />
+    <mj-class name="help__name"
+              padding="0"
+              font-size="14px"
+              line-height="22px"
+              color="#6D4661"
+    />
+
+    <mj-class name="features__column-left"
+              padding="0"
+              width="5%"
+              vertical-align="middle"
+    />
+    <mj-class name="features__column-right"
+              padding="0"
+              padding-left="20px"
+              width="95%"
+              vertical-align="middle"
+    />
+    <mj-class name="features__name"
+              padding="0"
+              font-size="14px"
+              line-height="22px"
+              color="#6D4661"
+    />
+    <mj-class name="footer"
+              full-width="full-width"
+              background-color="#491839"
+              padding="50px 20px"
+    />
+    <mj-class name="footer__soc"
+              width="34px"
+              padding="0"
+    />
+</mj-attributes>
+<mj-style inline="inline">
+    .fw--700{
+        font-weight: 700;
+    }
+    .color--success{
+        color: #6D4661;
+    }
+    .color--white{
+        color: #fff;
+    }
+    .color--info{
+        color: #C8C8C8;
+    }
+    .td--none{
+        text-decoration: none;
+    }
+    .dib{
+        width: 100% !important;
+        display: inline-block !important;
+    }
+    .mw-50{
+        max-width: 50px !important;
+    }
+    .mw-150{
+        max-width: 150px !important;
+    }
+    .mw-184{
+        max-width: 184px !important;
+    }
+    .mw-202{
+        max-width: 202px !important;
+    }
+    .mw-266{
+        max-width: 266px !important;
+    }
+    .mw-290{
+        max-width: 290px !important;
+    }
+    .mw-530{
+        max-width: 530px !important;
+    }
+    .mw-606{
+        max-width: 606px !important;
+    }
+    .mw-604{
+        max-width: 604px !important;
+    }
+    .mw-630{
+        max-width: 630px !important;
+    }
+    .list{
+        padding: 0 0 0 20px;
+        margin: 0;
+    }
+</mj-style>
