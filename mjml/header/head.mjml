@@ -136,7 +136,7 @@
     <mj-class name="header"
               full-width="full-width"
               background-color="#491839"
-              padding="20px 0px"
+              padding="25px 0px"
     />
     <mj-class name="header__column"
               vertical-align="middle"

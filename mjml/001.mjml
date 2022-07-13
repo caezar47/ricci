@@ -4,6 +4,9 @@
         <mj-preview>preview&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
         <mj-title>title</mj-title>
     </mj-head>
+
+
+
     <mj-body background-color="#fff">
         <!-- Header -->
         <mj-include path="header/header.mjml" />
@@ -18,7 +21,7 @@
                     Летом недвижимость у&nbsp;воды вызывает наибольший интерес у&nbsp;клиентов. Застройщики предлагают все новые способы покупки&nbsp;— ипотечные программы с&nbsp;минимальной ставкой, гибкие условия рассрочки и&nbsp;акции со&nbsp;скидкой до&nbsp;20% на&nbsp;покупку квартиры.
                 </mj-text>
                 <mj-text mj-class="text-15-22  align--center">
-                    В&nbsp;этом письме мы&nbsp;собрали горячие предложения в&nbsp;новостройках Москвы, а&nbsp;также ожидаемые старты, которые нельзя упустить
+                    В&nbsp;этом письме мы&nbsp;собрали горячие предложения в&nbsp;новостройках Москвы, а&nbsp;также ожидаемые старты, которые нельзя упустить.
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -57,7 +60,6 @@
             </mj-column>
         </mj-section>
         <mj-section mj-class="divider50"></mj-section>
-
 
         <!-- Карта -->
         <mj-section padding="0">
@@ -105,7 +107,7 @@
                     <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
                         <mj-social mj-class="button__download">
                             <mj-social-element mj-class="button__download-element"
-                                               href="#"
+                                               href="http://kupinastarte.com/level"
                                                src="https://caezar47.github.io/ricci/img/tpl/download.png">
                                 Скачать презентацию проекта
                             </mj-social-element>
@@ -152,7 +154,7 @@
                     <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
                         <mj-social mj-class="button__download">
                             <mj-social-element mj-class="button__download-element"
-                                               href="#"
+                                               href="http://kupinastarte.com/rpt"
                                                src="https://caezar47.github.io/ricci/img/tpl/download.png">
                                 Скачать презентацию проекта
                             </mj-social-element>
@@ -199,7 +201,7 @@
                     <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
                         <mj-social mj-class="button__download">
                             <mj-social-element mj-class="button__download-element"
-                                               href="#"
+                                               href="http://kupinastarte.com/wow"
                                                src="https://caezar47.github.io/ricci/img/tpl/download.png">
                                 Скачать презентацию проекта
                             </mj-social-element>
@@ -246,7 +248,7 @@
                     <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
                         <mj-social mj-class="button__download">
                             <mj-social-element mj-class="button__download-element"
-                                               href="#"
+                                               href="http://kupinastarte.com/bogenhouse"
                                                src="https://caezar47.github.io/ricci/img/tpl/download.png">
                                 Скачать презентацию проекта
                             </mj-social-element>
