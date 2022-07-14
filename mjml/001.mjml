@@ -32,7 +32,7 @@
             <mj-column mj-class="button__catalog-column">
                 <mj-social mj-class="button__catalog">
                     <mj-social-element mj-class="button__catalog-element"
-                                       href="#"
+                                       href="https://premium.ricci.ru/upload/brokers/waters.pdf"
                                        src="https://caezar47.github.io/ricci/img/tpl/catalog.png">
                         Скачать полный каталог новостроек у воды
                     </mj-social-element>
