@@ -1,12 +1,9 @@
 <mjml>
     <mj-head>
         <mj-include path="header/head.mjml" />
-        <mj-preview>preview&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
-        <mj-title>title</mj-title>
+        <mj-preview>Изучите каталог новостроек в лучших локациях Москвы&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>Июль 22' 🏡 Недвижимость в новостройках у реки стала доступнее!</mj-title>
     </mj-head>
-
-
-
     <mj-body background-color="#fff">
         <!-- Header -->
         <mj-include path="header/header.mjml" />
@@ -250,7 +247,7 @@
                             <mj-social-element mj-class="button__download-element"
                                                href="http://kupinastarte.com/bogenhouse"
                                                src="https://caezar47.github.io/ricci/img/tpl/download.png">
-                                Скачать презентацию проекта
+                                Скачать презентацию Пентхауса
                             </mj-social-element>
                         </mj-social>
                     </mj-column>
@@ -325,13 +322,10 @@
         <mj-section padding="0" css-class="mw-606">
             <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
                 <mj-image padding="0"
-                          src="https://caezar47.github.io/ricci/img/001/building-start-item4.jpg"
+                          src="https://caezar47.github.io/ricci/img/001/building-start-item7.jpg"
                 />
                 <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
-                    ЖК «Софийский»
-                </mj-text>
-                <mj-text mj-class="text-12-18 align--center  color--success">
-                    MR Private
+                    ЖК «Лужники»
                 </mj-text>
             </mj-column>
             <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">
