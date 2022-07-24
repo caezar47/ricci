@@ -242,7 +242,7 @@
                     </ul>
                 </mj-text>
                 <mj-section padding="0">
-                    <mj-column padding="0" mj-class="mw-290" css-class="dib  mw-290">
+                    <mj-column padding="0" mj-class="mw-310" css-class="dib  mw-310">
                         <mj-social mj-class="button__download">
                             <mj-social-element mj-class="button__download-element"
                                                href="http://kupinastarte.com/bogenhouse"
@@ -325,7 +325,7 @@
                           src="https://caezar47.github.io/ricci/img/001/building-start-item7.jpg"
                 />
                 <mj-text mj-class="text-14-20 align--center" padding-top="15px" padding-bottom="4px">
-                    ЖК «Лужники»
+                    Лужники
                 </mj-text>
             </mj-column>
             <mj-column mj-class="gap-15-2 mw-202" css-class="dib  mw-202">

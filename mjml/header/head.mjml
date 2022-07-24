@@ -82,6 +82,18 @@
     <mj-class name="mw-202"
               width="202px"
     />
+    <mj-class name="mw-315"
+              width="315px"
+    />
+    <mj-class name="mw-320"
+              width="320px"
+    />
+    <mj-class name="mw-330"
+              width="330px"
+    />
+    <mj-class name="pad--0"
+              padding="0"
+    />
     <mj-class name="gap-0-8"
               padding="0px 8px"
     />
@@ -103,6 +115,12 @@
     <mj-class name="mw-290"
               width="290px"
     />
+    <mj-class name="mw-300"
+              width="300px"
+    />
+    <mj-class name="mw-310"
+              width="310px"
+    />
     <mj-class name="mw-530"
               width="530px"
     />
@@ -111,6 +129,11 @@
     />
     <mj-class name="color--primary"
               color="#491839"
+    />
+    <mj-class name="container--primary"
+              color="#fff"
+              padding="15px"
+              container-background-color="#491839"
     />
     <mj-class name="color--success"
               color="#6D4661"
@@ -123,6 +146,9 @@
     />
     <mj-class name="color--info"
               color="#C8C8C8"
+    />
+    <mj-class name="color--info2"
+              color="#8D8D8D"
     />
     <mj-class name="content"
               padding="0 15px"
@@ -138,6 +164,10 @@
               background-color="#491839"
               padding="25px 0px"
     />
+    <mj-class name="header__white"
+              background-color="#fff"
+              padding="25px 0px"
+    />
     <mj-class name="header__column"
               vertical-align="middle"
               padding="4px 0px"
@@ -145,6 +175,11 @@
     <mj-class name="header__logo"
               width="250px"
               padding="0 0 4px"
+              align="center"
+    />
+    <mj-class name="header__logo-primary"
+              width="200px"
+              padding="0 0 5px"
               align="center"
     />
 
@@ -164,8 +199,8 @@
               padding="0"
               border-radius="0"
               inner-padding="0"
-              text-padding="10px 47px 10px 0"
-              icon-padding="14px 30px 14px 47px"
+              text-padding="10px 5px 10px 0"
+              icon-padding="14px 20px 14px 5px"
               font-size="16px"
               line-height="24px"
               color="#491839"
@@ -219,6 +254,7 @@
               color="#6D4661"
     />
 
+
     <mj-class name="features__column-left"
               padding="0"
               width="5%"
@@ -241,8 +277,18 @@
               background-color="#491839"
               padding="50px 20px"
     />
+    <mj-class name="footer__white"
+              full-width="full-width"
+              background-color="#fff"
+              padding="35px 20px 30px"
+    />
+    <mj-class name="footer__offer"
+              full-width="full-width"
+              background-color="#EDDFE0"
+              padding="30px 20px"
+    />
     <mj-class name="footer__soc"
-              width="34px"
+              width="30px"
               padding="0"
     />
 </mj-attributes>
@@ -256,8 +302,14 @@
     .color--white{
         color: #fff;
     }
+    .color--black{
+        color: #000;
+    }
     .color--info{
         color: #C8C8C8;
+    }
+    .color--info2{
+        color: #8D8D8D;
     }
     .td--none{
         text-decoration: none;
@@ -283,6 +335,21 @@
     }
     .mw-290{
         max-width: 290px !important;
+    }
+    .mw-300{
+        max-width: 300px !important;
+    }
+    .mw-310{
+        max-width: 310px !important;
+    }
+    .mw-315{
+        max-width: 315px !important;
+    }
+    .mw-320{
+        max-width: 320px !important;
+    }
+    .mw-330{
+        max-width: 330px !important;
     }
     .mw-530{
         max-width: 530px !important;

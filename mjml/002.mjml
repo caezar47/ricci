@@ -1,0 +1,290 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-preview>Последние лоты с захватывающей панорамой города!&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>🏙 Alcon Tower. Жить в центре на высоте.</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header-white.mjml" />
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                        src="https://caezar47.github.io/ricci/img/002/main-banner.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="30px">
+                    Последние лоты с лучшими видами в Alcon Tower!
+                </mj-text>
+                <mj-text mj-class="text-15-22  align--center  container--primary">
+                    Хотите жить в&nbsp;центре на&nbsp;высоте с&nbsp;захватывающей панорамой города? Выразительный комплекс Alcon Tower станет идеальным решением.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Католог -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="button__catalog-column">
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-330"  css-class="dib  mw-330">
+                        <mj-social mj-class="button__catalog  align--center">
+                            <mj-social-element mj-class="button__catalog-element"
+                                               href="https://premium.ricci.ru/upload/brokers/alcon_tower.pdf"
+                                               src="https://caezar47.github.io/ricci/img/tpl/catalog.png">
+                                Скачать презентацию проекта
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Преимущества -->
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item1.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Последние 13&nbsp;апартаментов и&nbsp;1&nbsp;пентхаус
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item2.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Только лучшие виды. Центр, Москва-Сити, Останкинская башня
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item3.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Высокая стадия готовности. Сдача до&nbsp;конца 2022&nbsp;г.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item4.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Идеальное расположение
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item5.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Монументальная архитектура и&nbsp;авторский дизайн в&nbsp;стиле высоток Москвы и&nbsp;Нью-Йорка
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item6.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Высота потолков от&nbsp;3,3 до&nbsp;3,5&nbsp;м
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item7.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Отделка Whitebox. Шумные и&nbsp;черновые работы уже выполнены
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item8.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Современная инфраструктура: кафе, рестораны и&nbsp;магазины
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item9.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        3&nbsp;уровня подземного паркинга
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item10.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Управление через умный сервис в&nbsp;приложении
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/002/adv-item11.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-22">
+                        Цена лотов приятно удивит вас
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Преимущества -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Почему Ricci?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider35"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        <span class="fw--700">Ricci premium</span>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <span class="fw--700">ricci</span>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%">
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Мы&nbsp;глубоко погружаемся в&nbsp;бизнес наших клиентов и&nbsp;<span class="fw--700">находим эффективные решения</span> в&nbsp;ключевых направлениях недвижимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Работаем с&nbsp;крупнейшими застройщиками столицы: в&nbsp;нашем портфеле более <span class="fw--700">150 проектов</span>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer-white.mjml" />
+    </mj-body>
+</mjml>

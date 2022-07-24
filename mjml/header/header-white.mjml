@@ -1,0 +1,9 @@
+<mj-section mj-class="header__white">
+    <mj-column padding="0">
+        <mj-image mj-class="header__logo-primary"
+                  src="https://caezar47.github.io/ricci/img/tpl/logotip-black.png"/>
+        <mj-text mj-class="text-14-20  color--black  align--center">
+            <a class="color--black  td--none" href="tel:+74956644667">+7 (495) 664-46-67</a>
+        </mj-text>
+    </mj-column>
+</mj-section>

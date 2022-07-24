@@ -16,7 +16,7 @@
             <mj-column mj-class="mw-50  gap-0-8" css-class="dib  mw-50">
                 <mj-image mj-class="footer__soc"
                           src="https://caezar47.github.io/ricci/img/tpl/wa.png"
-                          href="https://wa.clck.bar/79260100358"
+                          href="whatsapp://send?phone=79260100358"
                 />
             </mj-column>
             <mj-column mj-class="mw-50  gap-0-8" css-class="dib  mw-50">
