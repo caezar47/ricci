@@ -37,8 +37,9 @@
                     <mj-column mj-class="pad--0  mw-330"  css-class="dib  mw-330">
                         <mj-social mj-class="button__catalog  align--center">
                             <mj-social-element mj-class="button__catalog-element"
-                                               href="https://premium.ricci.ru/upload/brokers/alcon_tower.pdf"
-                                               src="https://caezar47.github.io/ricci/img/tpl/catalog.png">
+                                               src="https://caezar47.github.io/ricci/img/tpl/catalog.png"
+                                               href="https://caezar47.github.io/ricci/img/002/alcon-tower.pdf"
+                            >
                                 Скачать презентацию проекта
                             </mj-social-element>
                         </mj-social>
