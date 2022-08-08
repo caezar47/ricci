@@ -1,8 +1,9 @@
 <mj-section mj-class="footer">
     <mj-column padding="0">
-        <mj-text mj-class="h1  align--center  fw--700  color--white  td--underline" padding-bottom="34px">
+        <mj-button mj-class="btn--clearfix  h1  align--center  fw--700  color--white  td--underline" padding-bottom="34px"
+                   href="https://mrqz.me/katalogi">
             Поможем сделать правильный выбор недвижимости
-        </mj-text>
+        </mj-button>
         <mj-text mj-class="text-14-20  align--center  color--white" padding-bottom="20px">
             <a class="color--white" href="mailto:inbox@ricci.ru">inbox@ricci.ru</a>
         </mj-text>
