@@ -1,0 +1,96 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-preview>Раскрываем все секреты в письме! &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>📈 Как купить недвижимость на старте продаж?</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header-white.mjml" />
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                        src="https://caezar47.github.io/ricci/img/003/main-banner.jpg"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Преимущества -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/003/adv-item1.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-20">
+                        Покупка квартиры в&nbsp;перспективном комплексе по&nbsp;самой выгодной стартовой цене&nbsp;— наиболее частый запрос от&nbsp;клиентов.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider25"></mj-section> 
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/003/adv-item2.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-20">
+                        Однако в&nbsp;большинстве случаев покупатели не&nbsp;успевают или не&nbsp;могут зайти в&nbsp;проект на&nbsp;старте. Причина проста&nbsp;— они просто не&nbsp;подготовились к&nbsp;этому заранее.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider25"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/003/adv-item3.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-15-20">
+                        Специально для вас мы&nbsp;создали короткий чек-лист и&nbsp;полезную информацию о&nbsp;подготовке к&nbsp;старту, зная которую, вы&nbsp;сможете заработать <span class="fw--700">до&nbsp;30% больше</span> на&nbsp;инвестировании в&nbsp;жилую недвижимость, либо сэкономить существенную сумму при покупке недвижимости для себя.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Кнопка -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0  mw-195" css-class="dib  mw-195">
+                <mj-social mj-class="button__download">
+                    <mj-social-element mj-class="button__download-element"
+                                       href="https://premium.ricci.ru/upload/brokers/clist_premium.pdf"
+                                       src="https://caezar47.github.io/ricci/img/tpl/download.png">
+                        Скачать чек-лист
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Ссылка -->
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column mj-class="pad--20">
+                <mj-text mj-class="pad--0  color--success  text-14-20  align--center">
+                    Вы&nbsp;можете перейти <a class="color--success" href="https://telegra.ph/kak-zajti-na-starte-08-09" target="_blank">по&nbsp;ссылке</a> и&nbsp;изучить более подробную информацию о&nbsp;том, как&nbsp;же устроен процесс
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer-white.mjml" />
+    </mj-body>
+</mjml>
