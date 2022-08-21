@@ -1,0 +1,261 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-preview>Пентхаус в готовом доме за 30 млн рублей &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>🏠 Лоты с выгодой до 20% от рынка!</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header-white.mjml" />
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Основой текст -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-15-22  fw--700  align--center" padding-bottom="10px">
+                    Уступка на&nbsp;20% дешевле цены застройщика ИЛИ первичка с&nbsp;субсидированной ставкой ипотеки 0,01%?
+                </mj-text>
+                <mj-text mj-class="text-15-22  fw--700  align--center" padding-bottom="20px">
+                    Что выберете вы?
+                </mj-text>
+                <mj-text mj-class="text-14-22  align--center">
+                    Наиболее распространенными сделками на&nbsp;Московском рынке недвижимости сейчас можно выделить <span class="fw--700">2&nbsp;варианта:</span>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Основой текст -->
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Преимущества -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/004/adv-item1.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-14-22">
+                        Предложения от&nbsp;застройщиков с&nbsp;выгодными условиями по&nbsp;рассрочке (вплоть до&nbsp;ввода&nbsp;ЖК в&nbsp;эксплуатацию) и&nbsp;субсидированными программами ипотеки (со&nbsp;ставкой до&nbsp;0,1%&nbsp;— даже на&nbsp;апартаменты)
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%">
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/004/adv-item2.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-14-22">
+                        Уступки от&nbsp;частных инвесторов, предлагающих ликвидные варианты в&nbsp;строящихся или готовых&nbsp;ЖК со&nbsp;скидкой <nobr>10–25%</nobr> от&nbsp;текущей рыночной стоимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Преимущества -->
+
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Текст в плашке -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-14-20  align--center  container--primary">
+                    Мы&nbsp;отобрали 3&nbsp;наиболее привлекательных предложения из&nbsp;пула уступок от&nbsp;наших клиентов-инвесторов, готовых оперативно выйти на&nbsp;сделку
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст в плашке -->
+
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Лот 1  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/004/product-item1.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700" padding-bottom="10px">
+                    Mainstreet
+                </mj-text>
+                <mj-text mj-class="text-14-20" padding-bottom="10px">
+                    <ul class="list">
+                        <li>Комплекс бизнес-класса, расположенный в&nbsp;районе Фили-Давыдково с&nbsp;удобным выездом на&nbsp;Кутузовский проспект и&nbsp;Рублевское шоссе</li>
+                        <li>Проект состоит из&nbsp;четырёх секций высотой от&nbsp;9&nbsp;до&nbsp;29&nbsp;этажей</li>
+                        <li>Современная архитектура, максимально высокая стадия готовности и&nbsp;выдача ключей в&nbsp;ближайшее время</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column mj-class="pad--15">
+                <mj-text mj-class="text-14-20  align--center  color--success" padding-bottom="10px">
+                    В&nbsp;продаже предлагается пентхаус 93,4&nbsp;м² с&nbsp;окнами на&nbsp;2&nbsp;стороны света с&nbsp;обособленной зоной из&nbsp;<nobr>3-х</nobr> спален с&nbsp;собственным холлом, встроенной гардеробной и&nbsp;просторной ванной комнатой. Кухня-столовая-гостиная около 30&nbsp;м², увеличенная площадь остекления и&nbsp;высокие потолки 3,6&nbsp;м. В&nbsp;распоряжении собственника увеличенное удобное машиноместо.
+                </mj-text>
+                <mj-text mj-class="text-15-22  fw--700  align--center  color--success">
+                    Цена 1&nbsp;м²&nbsp;— 299,5&nbsp;тыс.&nbsp;₽
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0  mw-266" css-class="dib  mw-266">
+                <mj-social mj-class="button__download">
+                    <mj-social-element mj-class="button__download-element"
+                                       src="https://caezar47.github.io/ricci/img/tpl/download.png"
+                                       href="https://premium.ricci.ru/upload/brokers/mainstreet_kvartira_93,4.pdf"
+                                       >
+                        Скачать презентацию лота
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 1 -->
+
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Лот 2  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/004/product-item2.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700" padding-bottom="10px">
+                    Will Towers
+                </mj-text>
+                <mj-text mj-class="text-14-20" padding-bottom="10px">
+                    <ul class="list">
+                        <li>Жилой комплекс бизнес-класса из&nbsp;3-х корпусов в&nbsp;районе Раменки. Высота корпусов 52-56 этажей</li>
+                        <li>Из&nbsp;окон открываются виды на&nbsp;природный заказник «Долина Реки Сетунь», МГУ, Матвеевский лес и&nbsp;Москва-Сити</li>
+                        <li>Архитектура зданий разработана международным бюро Speech. Фасад облицован натуральным камнем и&nbsp;металлом серого, бежевого и&nbsp;медного цветов. Застройщик показывает стабильно высокие темпы строительства</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column mj-class="pad--15">
+                <mj-text mj-class="text-14-20  align--center  color--success" padding-bottom="10px">
+                    В&nbsp;продаже предлагается угловая квартира 113,4&nbsp;м² с&nbsp;шикарными видами на&nbsp;42-м этаже.
+                </mj-text>
+                <mj-text mj-class="text-15-22  fw--700  align--center  color--success">
+                    Цена 1&nbsp;м²&nbsp;— 343,5&nbsp;тыс.&nbsp;₽
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0  mw-266" css-class="dib  mw-266">
+                <mj-social mj-class="button__download">
+                    <mj-social-element mj-class="button__download-element"
+                                       src="https://caezar47.github.io/ricci/img/tpl/download.png"
+                                       href="https://premium.ricci.ru/upload/brokers/will_towers_kvartira_113,4 2.pdf"
+                                       >
+                        Скачать презентацию лота
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 1 -->
+
+        <mj-section mj-class="divider35"></mj-section>
+
+        <!-- Лот 3  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/004/product-item3.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700" padding-bottom="10px">
+                    Cloud Nine
+                </mj-text>
+                <mj-text mj-class="text-14-20" padding-bottom="10px">
+                    <ul class="list">
+                        <li>Комплекс делюкс-класса, расположенный в&nbsp;1&nbsp;км от&nbsp;Кремля. Проект состоит из&nbsp;4-х корпусов и&nbsp;включает всего 45&nbsp;квартир</li>
+                        <li>Объект уже сдан, внутри в&nbsp;процессе окончания финишные работы по&nbsp;внутренней отделке квартир</li>
+                        <li>Отделка от&nbsp;застройщика высокого класса выполнена с&nbsp;использованием дорогостоящих материалов и&nbsp;наполнением бытовой техникой премиального уровня</li>
+                    </ul>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column mj-class="pad--15">
+                <mj-text mj-class="text-14-20  align--center  color--success" padding-bottom="10px">
+                    В&nbsp;продаже предлагается 2-х комнатная квартира общей площадью 82,5&nbsp;м² в&nbsp;корпусе D.&nbsp;Квартира представлена с&nbsp;готовой высококачественной отделкой.
+                </mj-text>
+                <mj-text mj-class="text-15-22  fw--700  align--center  color--success">
+                    Стоимость квартиры&nbsp;— 119,6&nbsp;млн.&nbsp;₽
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0  mw-266" css-class="dib  mw-266">
+                <mj-social mj-class="button__download">
+                    <mj-social-element mj-class="button__download-element"
+                                       src="https://caezar47.github.io/ricci/img/tpl/download.png"
+                                       href="https://premium.ricci.ru/upload/brokers/cloud_nine_kvartira_82,5.pdf"
+                                       >
+                        Скачать презентацию лота
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 1 -->
+
+        <mj-section mj-class="divider35"></mj-section>
+        <mj-section mj-class="divider35" border-top="1px solid #6D4661"></mj-section>
+
+        <!--  Каталог -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-18-24  align--center  fw--700" padding-bottom="30px">
+                    Каталог новостроек с&nbsp;выгодными уступками
+                </mj-text>
+                <mj-text mj-class="text-15-24  align--center  color--success">
+                    В&nbsp;каталоге вы&nbsp;найдёте перечень жилых комплексов, в&nbsp;которых у&nbsp;наших клиентов есть инвестиционные активы, готовые к&nbsp;продаже
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="button__catalog-column">
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-330"  css-class="dib  mw-330">
+                        <mj-social mj-class="button__catalog  align--center">
+                            <mj-social-element mj-class="button__catalog-element"
+                                               src="https://caezar47.github.io/ricci/img/tpl/catalog.png"
+                                               href="https://premium.ricci.ru/upload/brokers/catalog.pdf"
+                            >
+                                Скачать каталог
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/004/adv-item3.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name  text-16-24">
+                        <span class="fw--700">Позвоните нам,</span> чтобы узнать об&nbsp;актуальных предложениях. Мы&nbsp;учтём все ваши пожелания и&nbsp;поможем вам подобрать наиболее подходящий лот.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Каталог -->
+
+        <mj-section mj-class="divider35" border-bottom="1px solid #6D4661"></mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer-white.mjml" />
+    </mj-body>
+</mjml>
