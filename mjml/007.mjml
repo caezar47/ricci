@@ -1,0 +1,450 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-attributes>
+
+            <mj-class name="button"
+                      font-size="14px"
+                      line-height="14px"
+                      inner-padding="14px"
+            />
+
+            <mj-class name="features__column-left"
+                      width="6%"
+                      vertical-align="top"
+            />
+            <mj-class name="features__column-right"
+                      width="94%"
+                      padding-left="10px"
+            />
+            <mj-class name="features__name"
+                      color="#000"
+                      font-weight="700"
+                      padding-bottom="9px"
+            />
+            <mj-class name="footer__white"
+                      padding="25px 20px 30px"
+            />
+        </mj-attributes>
+        <mj-preview>А ты уже купил тут квартиру? &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>🌇 Хамовники - Самый желанный район Москвы</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header_base.mjml" />
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/007/main-banner.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="20px">
+                    Хамовники. Набережная. Жилье Премиум и&nbsp;Делюкс класса. Лужники. Рейтинговые школы. Парки. Гастрономия. Все лучшее в&nbsp;одном районе.
+                </mj-text>
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-245" css-class="dib  mw-245">
+                        <mj-button mj-class="button"
+                                   href="#">
+                            Хочу жить в Хамовниках
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Преимущества  -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/007/adv-item1.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Самый крупный и&nbsp;самый зеленый район ЦАО
+                    </mj-text>
+                    <mj-text mj-class="features__text">
+                        На&nbsp;территории Хамовников расположены Новодевичьи пруды, сквер Девичьего поля и&nbsp;парк «Усадьба Трубецких в&nbsp;Хамовниках», а&nbsp;через Москву-реку&nbsp;— Парк имени Горького, Нескучный сад и&nbsp;Парк искусств Музеон.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-section mj-class="divider20"></mj-section>
+        
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/007/adv-item2.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Богатое историческое и&nbsp;культурное наследие
+                    </mj-text>
+                    <mj-text mj-class="features__text">
+                        В&nbsp;Хамовниках много музеев, галерей и&nbsp;театров, а&nbsp;также стадион «Лужники», Новодевичий монастырь, храмы Христа Спасителя и&nbsp;Николая Чудотворца.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-section mj-class="divider20"></mj-section>
+        
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/007/adv-item3.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Высокий уровень социальной инфраструктуры
+                    </mj-text>
+                    <mj-text mj-class="features__text">
+                        Сразу 6&nbsp;школ входят в&nbsp;топ-500 лучших общеобразовательных заведений России.<br>
+                        <strong>Здесь&nbsp;же находятся престижные вузы:</strong><br>
+                        1-й Московский государственный медицинский университет имени И.М. Сеченова, Лингвистический университет, Дипломатическая академия МИД России и&nbsp;др.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+        <mj-section mj-class="divider20"></mj-section>
+        
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/007/adv-item4.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Премиальная инфраструктура
+                    </mj-text>
+                    <mj-text mj-class="features__text">
+                        В&nbsp;Хамовниках представлены все виды необходимой для жизни инфраструктуры: гастрономическая, медицинская, образовательная и&nbsp;спортивная. Новые точки притяжения&nbsp;— модернизированный кластер Усачевский рынок, территория Лужников, кафе и&nbsp;рестораны, всегда доступны для жителей.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Преимущества -->
+
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="bg--primary pad--15">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-15-22  align--center  color--white">
+                    Средняя стоимость современной недвижимости в&nbsp;районе начинается от&nbsp;1&nbsp;млн руб.&nbsp;за&nbsp;1&nbsp;м² без отделки. В&nbsp;вариантах с&nbsp;готовой премиальной отделкой, наличием видовых характеристик, террас и&nbsp;балконов, цена смело превышает отметку в&nbsp;2&nbsp;млн руб.&nbsp;за&nbsp;1&nbsp;м².
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700">
+                    На&nbsp;фоне новых проектов на&nbsp;самых ранних этапах строительства и&nbsp;обжитой вторичной недвижимости, мы&nbsp;отобрали для вас классные предложения в&nbsp;новых готовых домах, которым стоит уделить особое внимание:
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Лот 1  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/007/product-item1.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700  color--black" padding-bottom="8px">
+                    Savvin River Residence
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--black" padding-bottom="20px">
+                    Комплекс сдан&nbsp;— качество строительства и&nbsp;отделочных материалов не&nbsp;оставляют равнодушными никого. В&nbsp;продаже остались несколько последних лотов по&nbsp;справедливой цене.<br> Площадь квартир от&nbsp;79&nbsp;м² до&nbsp;261&nbsp;м².
+                </mj-text>
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-166" css-class="dib  mw-166">
+                        <mj-button mj-class="button  button__primary"
+                                   href="https://premium.ricci.ru/upload/brokers/ricci_savvin-river-residence.pdf">
+                            Узнать стоимость
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 1 -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Лот 2  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/007/product-item2.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700  color--black" padding-bottom="8px">
+                    Садовые Кварталы
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--black" padding-bottom="20px">
+                    Жилые корпуса проекта полностью завершены, собственники корпусов 2.5-2.10 финально получают ключи от&nbsp;своих квартир. Лучшие предложения в&nbsp;комплексе с&nbsp;отделкой и&nbsp;без.
+                </mj-text>
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-195" css-class="dib  mw-195">
+                        <mj-button mj-class="button  button__primary"
+                                   href="ttps://premium.ricci.ru/upload/brokers/ricci_garden_quarters.pdf">
+                            Подобрать варианты
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 2 -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Лот 3  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/007/product-item3.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700  color--black" padding-bottom="8px">
+                    Knightsbridge Private Park
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--black" padding-bottom="20px">
+                    Жилой квартал из&nbsp;4-х клубных домов делюкс-класса. К&nbsp;продаже доступны квартиры и&nbsp;таунхаусы площадью от&nbsp;116 до&nbsp;502&nbsp;м².
+                </mj-text>
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-145" css-class="dib  mw-145">
+                        <mj-button mj-class="button  button__primary"
+                                   href="https://premium.ricci.ru/upload/brokers/ricci_knightsbridge-private-park.pdf">
+                            Подобрать лот
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 3 -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Лот 4  -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full" padding-bottom="30px"
+                          src="https://caezar47.github.io/ricci/img/007/product-item3.png"
+                />
+                <mj-text mj-class="text-18-24  align--center  fw--700  color--black" padding-bottom="8px">
+                    Eight Yards
+                </mj-text>
+                <mj-text mj-class="h2  align--center  color--black" padding-bottom="20px">
+                    Комплекс из&nbsp;8&nbsp;таунхаусов делюкс-класса, у&nbsp;каждого приватное патио и&nbsp;открытая терраса на&nbsp;верхнем этаже. Последние два таунхауса доступны к&nbsp;продаже.
+                </mj-text>
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-175" css-class="dib  mw-175">
+                        <mj-button mj-class="button  button__primary"
+                                   href="https://premium.ricci.ru/upload/brokers/ricci_8yards.pdf">
+                            Выбрать таунхаус
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Лот 4 -->
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black" padding-bottom="20px">
+                    Специально для вас мы&nbsp;собрали каталог новостроек в&nbsp;Хамовниках, которые можно купить уже сейчас
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="content" css-class="mw-630" padding-bottom="20px">
+            <mj-column mj-class="button__catalog-column">
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-430"  css-class="dib  mw-430">
+                        <mj-social mj-class="button__catalog  align--center">
+                            <mj-social-element mj-class="button__catalog-element"
+                                               src="https://caezar47.github.io/ricci/img/tpl/catalog.png"
+                                               href="https://premium.ricci.ru/upload/brokers/catalog_xamovniki.pdf"
+                            >
+                                Скачать каталог новостроек в Хамовниках
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left" width="8%">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/004/adv-item3.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right" width="92%">
+                    <mj-text mj-class="features__text  text-16-24">
+                        <strong>Позвоните нам,</strong> чтобы подобрать отличный вариант для себя в&nbsp;одном из&nbsp;лучших районов Москвы.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <mj-section mj-class="bg--primary pad--15">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-15-22  align--center  color--white">
+                    Известно о&nbsp;более чем 11&nbsp;новых площадках под застройку премиальной недвижимости в&nbsp;Хамовниках
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider10"></mj-section>
+
+        <mj-wrapper mj-class="pad--0" css-class="mw-505">
+            <mj-section mj-class="pad--0">
+                <mj-column mj-class="pad--10  mw-252" css-class="dib mw-252">
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Олсуфьевский, 10
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Тружеников, 12
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Погодинской, 24
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Фрунзенская, 30
+                        и&nbsp;проект&nbsp;рядом
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black">
+                        — 2-й Вражский, 8
+                    </mj-text>
+                </mj-column>
+                <mj-column mj-class="pad--0  mw-252" css-class="dib mw-252">
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Тимура Фрунзе, 10
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Льва Толстого, 14-16
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Большой Саввинский, 9
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Зубовский, 14/2
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
+                        — Комсомольский, 1
+                    </mj-text>
+                    <mj-text mj-class="text-14-22  color--black">
+                        — Луженецкая набережная
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+        <mj-section mj-class="divider10"></mj-section>
+
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0  mw-500" css-class="dib  mw-500">
+                <mj-button mj-class="button  button__stroke"
+                           href="#">
+                    Хочу узнавать о запуске новых проектов в Хамовниках
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider50"></mj-section>
+
+        <!-- Почему Ricci? -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Почему Ricci?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider35"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__text">
+                        <span class="fw--700">Ricci premium</span>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <span class="fw--700">ricci</span>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%">
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__text">
+                        Мы&nbsp;глубоко погружаемся в&nbsp;бизнес наших клиентов и&nbsp;<span class="fw--700">находим эффективные решения</span> в&nbsp;ключевых направлениях недвижимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__text">
+                        Работаем с&nbsp;крупнейшими застройщиками столицы: в&nbsp;нашем портфеле более <span class="fw--700">150 проектов</span>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Почему Ricci? -->
+
+        <mj-section mj-class="divider25" border-bottom="1px solid #AA8BA0"></mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer_base.mjml" />
+    </mj-body>
+</mjml>

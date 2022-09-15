@@ -6,7 +6,7 @@
     </mj-head>
     <mj-body background-color="#fff">
         <!-- Header -->
-        <mj-include path="header/header-white.mjml" />
+        <mj-include path="header/header_base.mjml" />
 
         <!-- Баннер -->
         <mj-section mj-class="pad--0">
@@ -91,6 +91,6 @@
         </mj-section>
 
         <!-- Footer -->
-        <mj-include path="footer/footer-white.mjml" />
+        <mj-include path="footer/footer_base.mjml" />
     </mj-body>
 </mjml>

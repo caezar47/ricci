@@ -3,10 +3,39 @@
         <mj-include path="header/head.mjml" />
         <mj-preview>Изучите каталог новостроек в лучших локациях Москвы&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
         <mj-title>Июль 22' 🏡 Недвижимость в новостройках у реки стала доступнее!</mj-title>
+
+        <mj-attributes>
+            <mj-class name="header"
+                      full-width="full-width"
+                      background-color="#491839"
+                      padding="25px 0px"
+            />
+            <mj-class name="header__logo"
+                      width="250px"
+            />
+            <mj-class name="footer"
+                      background-color="#491839"
+                      padding="50px 20px"
+            />
+            <mj-class name="footer__offer"
+                      background-color="#491839"
+            />
+        </mj-attributes>
     </mj-head>
     <mj-body background-color="#fff">
         <!-- Header -->
-        <mj-include path="header/header.mjml" />
+        <mj-section mj-class="header">
+            <mj-column padding="0">
+                <mj-image mj-class="header__logo"
+                          src="https://caezar47.github.io/ricci/img/tpl/logotip.png"/>
+                <mj-text mj-class="text-13-16  color--info  align--center" padding-bottom="18px">
+                    Экспертно. Вовлеченно. Без комиссии.
+                </mj-text>
+                <mj-text mj-class="text-14-20  color--white  align--center">
+                    <a class="color--white td--none" href="tel:+74956644667">+7 (495) 664-46-67</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
         <!-- Текст -->
         <mj-section mj-class="divider50"></mj-section>
         <mj-section mj-class="content" css-class="mw-630">
@@ -414,7 +443,7 @@
         <mj-section mj-class="divider50"></mj-section>
 
         <!-- Footer -->
-        <mj-include path="footer/footer.mjml" />
+        <mj-include path="footer/footer_base.mjml" />
 
     </mj-body>
 </mjml>

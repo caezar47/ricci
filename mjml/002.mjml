@@ -6,7 +6,7 @@
     </mj-head>
     <mj-body background-color="#fff">
         <!-- Header -->
-        <mj-include path="header/header-white.mjml" />
+        <mj-include path="header/header_base.mjml" />
 
         <!-- Баннер -->
         <mj-section mj-class="pad--0">
@@ -227,7 +227,7 @@
         </mj-section>
         <mj-section mj-class="divider20"></mj-section>
 
-        <!-- Преимущества -->
+        <!-- Почему Ricci? -->
         <mj-section mj-class="content" css-class="mw-630">
             <mj-column padding="0">
                 <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
@@ -235,7 +235,6 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-
         <mj-section mj-class="divider35"></mj-section>
 
         <mj-section mj-class="content" css-class="mw-630">
@@ -284,8 +283,9 @@
                 </mj-column>
             </mj-group>
         </mj-section>
+        <!-- End's Почему Ricci? -->
 
         <!-- Footer -->
-        <mj-include path="footer/footer-white.mjml" />
+        <mj-include path="footer/footer_base.mjml" />
     </mj-body>
 </mjml>

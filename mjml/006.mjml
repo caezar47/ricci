@@ -1,0 +1,178 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-attributes>
+            <mj-class name="features__column-left"
+                      width="10%"
+            />
+            <mj-class name="features__column-right"
+                      width="90%"
+                      padding-left="20px"
+            />
+            <mj-class name="features__name"
+                      font-size="16px"
+                      line-height="22px"
+            />
+            <mj-class name="footer__white"
+                      padding="25px 20px 30px"
+            />
+        </mj-attributes>
+        <mj-preview>Не упусти свой шанс быть в числе первых &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>🔥 Новый жилой комплекс в Лужниках</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Заголовок -->
+        <mj-section mj-class="content" css-class="mw-630" padding-top="20px">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-24-34  align--center  fw--700" padding-bottom="20px">
+                    Новый жилой комплекс в&nbsp;Лужниках
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Заголовок -->
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/006/main-banner.jpg"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <mj-section mj-class="divider40"></mj-section>
+
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="20px">
+                    Скоро старт продаж нового премиального жилого комплекса, расположенного в&nbsp;50&nbsp;м от&nbsp;входа в&nbsp;Лужники
+                </mj-text>
+                <mj-text mj-class="text-15-22  color--black  align--center">
+                    Новый жилой квартал премиум-класса расположится в&nbsp;удивительном месте Хамовников&nbsp;— на&nbsp;первой линии от&nbsp;набережной Москвы-реки, в&nbsp;непосредственной близости от&nbsp;входа в&nbsp;Лужники.<br/>
+                    <br>
+                    Над проектом работали архитектурные бюро мирового уровня, фасадные и&nbsp;интерьерные решения никого не&nbsp;оставят равнодушным. Продуманные планировочные решения, приватная и&nbsp;общественная инфраструктура, ландшафтный парк площадью 8&nbsp;Га&nbsp;— все проработано до&nbsp;мелочей, чтобы создать максимально комфортную среду для жильцов.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Преимущества  -->
+        <mj-section mj-class="content">
+            <mj-column mj-class="pad--0  mw-370"  css-class="dib  mw-370">
+                <mj-section mj-class="pad--0">
+                    <mj-group width="100%" >
+                        <mj-column mj-class="features__column-left">
+                            <mj-image mj-class="pad--0"
+                                      src="https://caezar47.github.io/ricci/img/006/adv-item1.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="features__column-right">
+                            <mj-text mj-class="features__name">
+                                Спортивный комплекс Лужники
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content">
+            <mj-column mj-class="pad--0  mw-370"  css-class="dib  mw-370">
+                <mj-section mj-class="pad--0">
+                    <mj-group width="100%" >
+                        <mj-column mj-class="features__column-left">
+                            <mj-image mj-class="pad--0"
+                                      src="https://caezar47.github.io/ricci/img/006/adv-item2.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="features__column-right">
+                            <mj-text mj-class="features__name">
+                                Архитектура от&nbsp;мировых архбюро
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content">
+            <mj-column mj-class="pad--0  mw-370"  css-class="dib  mw-370">
+                <mj-section mj-class="pad--0">
+                    <mj-group width="100%" >
+                        <mj-column mj-class="features__column-left">
+                            <mj-image mj-class="pad--0"
+                                      src="https://caezar47.github.io/ricci/img/006/adv-item3.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="features__column-right">
+                            <mj-text mj-class="features__name">
+                                Ошеломительные виды на&nbsp;воду
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content">
+            <mj-column mj-class="pad--0  mw-370"  css-class="dib  mw-370">
+                <mj-section mj-class="pad--0">
+                    <mj-group width="100%" >
+                        <mj-column mj-class="features__column-left">
+                            <mj-image mj-class="pad--0"
+                                      src="https://caezar47.github.io/ricci/img/006/adv-item4.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="features__column-right">
+                            <mj-text mj-class="features__name">
+                                Приватная территория 8&nbsp;Га
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider20"></mj-section>
+
+        <mj-section mj-class="content">
+            <mj-column mj-class="pad--0  mw-370"  css-class="dib  mw-370">
+                <mj-section mj-class="pad--0">
+                    <mj-group width="100%" >
+                        <mj-column mj-class="features__column-left">
+                            <mj-image mj-class="pad--0"
+                                      src="https://caezar47.github.io/ricci/img/006/adv-item5.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="features__column-right">
+                            <mj-text mj-class="features__name">
+                                Квартиры от&nbsp;48,9&nbsp;м²
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Преимущества  -->
+
+        <mj-section mj-class="divider40"></mj-section>
+
+        <mj-section mj-class="pad--0-15">
+            <mj-column mj-class="pad--0  mw-410" css-class="dib  mw-410">
+                <mj-button mj-class="button"
+                           href="https://kupinastarte.com/luzhniki">
+                    Хочу попасть в&nbsp;список первых на&nbsp;бронь
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer_base_v2.mjml" />
+    </mj-body>
+</mjml>

@@ -76,9 +76,19 @@
               line-height="20px"
               padding="0"
     />
+    <mj-class name="text-16-24"
+              font-size="16px"
+              line-height="24px"
+              padding="0"
+    />
     <mj-class name="text-18-24"
               font-size="18px"
               line-height="24px"
+              padding="0"
+    />
+    <mj-class name="text-24-34"
+              font-size="24px"
+              line-height="34px"
               padding="0"
     />
     <mj-class name="divider10"
@@ -99,32 +109,23 @@
     <mj-class name="divider35"
               padding="0 0 35px"
     />
+    <mj-class name="divider40"
+              padding="0 0 40px"
+    />
     <mj-class name="divider50"
               padding="0 0 50px"
     />
-    <mj-class name="mw-195"
-              width="195px"
-    />
-    <mj-class name="mw-202"
-              width="202px"
-    />
-    <mj-class name="mw-260"
-              width="260px"
-    />
-    <mj-class name="mw-266"
-              width="266px"
-    />
-    <mj-class name="mw-315"
-              width="315px"
-    />
-    <mj-class name="mw-320"
-              width="320px"
-    />
-    <mj-class name="mw-330"
-              width="330px"
-    />
     <mj-class name="pad--0"
               padding="0"
+    />
+    <mj-class name="pad--0-0-20"
+              padding="0 0 20px"
+    />
+    <mj-class name="pad--0-15"
+              padding="0 15px"
+    />
+    <mj-class name="pad--10"
+              padding="10px"
     />
     <mj-class name="pad--15"
               padding="15px"
@@ -141,11 +142,41 @@
     <mj-class name="mw-50"
               width="50px"
     />
+    <mj-class name="mw-145"
+              width="145px"
+    />
     <mj-class name="mw-150"
               width="150px"
     />
+    <mj-class name="mw-166"
+              width="166px"
+    />
+    <mj-class name="mw-175"
+              width="175px"
+    />
     <mj-class name="mw-184"
               width="184px"
+    />
+    <mj-class name="mw-195"
+              width="195px"
+    />
+    <mj-class name="mw-202"
+              width="202px"
+    />
+    <mj-class name="mw-225"
+              width="225px"
+    />
+    <mj-class name="mw-230"
+              width="230px"
+    />
+    <mj-class name="mw-245"
+              width="245px"
+    />
+    <mj-class name="mw-252"
+              width="252.5px"
+    />
+    <mj-class name="mw-260"
+              width="260px"
     />
     <mj-class name="mw-266"
               width="266px"
@@ -159,6 +190,51 @@
     <mj-class name="mw-310"
               width="310px"
     />
+    <mj-class name="mw-315"
+              width="315px"
+    />
+    <mj-class name="mw-320"
+              width="320px"
+    />
+    <mj-class name="mw-330"
+              width="330px"
+    />
+    <mj-class name="mw-360"
+              width="360px"
+    />
+    <mj-class name="mw-370"
+              width="370px"
+    />
+    <mj-class name="mw-380"
+              width="380px"
+    />
+    <mj-class name="mw-400"
+              width="400px"
+    />
+    <mj-class name="mw-410"
+              width="410px"
+    />
+    <mj-class name="mw-420"
+              width="420px"
+    />
+    <mj-class name="mw-430"
+              width="430px"
+    />
+    <mj-class name="mw-440"
+              width="440px"
+    />
+    <mj-class name="mw-450"
+              width="450px"
+    />
+    <mj-class name="mw-460"
+              width="460px"
+    />
+    <mj-class name="mw-500"
+              width="500px"
+    />
+    <mj-class name="mw-505"
+              width="500px"
+    />
     <mj-class name="mw-530"
               width="530px"
     />
@@ -167,6 +243,9 @@
     />
     <mj-class name="color--primary"
               color="#491839"
+    />
+    <mj-class name="bg--primary"
+              background-color="#491839"
     />
     <mj-class name="container--primary"
               color="#fff"
@@ -210,13 +289,39 @@
               padding="0"
               inner-padding="0"
     />
-
-
-    <mj-class name="header"
-              full-width="full-width"
-              background-color="#491839"
-              padding="25px 0px"
+    <mj-class name="button"
+              color="#fff"
+              background-color="#8B1565"
+              container-background-color="#8B1565"
+              border-radius="0px"
+              text-transform="none"
+              font-weight="700"
+              font-size="15px"
+              line-height="15px"
+              width="100%"
+              padding="0"
+              inner-padding="20px 15px"
     />
+    <mj-class name="button__primary"
+              font-size="14px"
+              line-height="14px"
+              font-weight="400"
+              inner-padding="14px"
+
+              background-color="#491839"
+              container-background-color="#491839"
+    />
+    <mj-class name="button__stroke"
+              font-size="14px"
+              line-height="14px"
+              inner-padding="14px"
+
+              color="#491839"
+              background-color="#fff"
+              container-background-color="#fff"
+              border="1px solid #491839"
+    />
+
     <mj-class name="header__white"
               background-color="#fff"
               padding="25px 0px"
@@ -226,11 +331,6 @@
               padding="4px 0px"
     />
     <mj-class name="header__logo"
-              width="250px"
-              padding="0 0 4px"
-              align="center"
-    />
-    <mj-class name="header__logo-primary"
               width="200px"
               padding="0 0 5px"
               align="center"
@@ -321,19 +421,56 @@
     />
     <mj-class name="features__name"
               padding="0"
-              font-size="14px"
+              font-size="15px"
               line-height="22px"
               color="#6D4661"
     />
+    <mj-class name="features__text"
+              padding="0"
+              font-size="15px"
+              line-height="22px"
+              color="#000"
+    />
     <mj-class name="footer"
               full-width="full-width"
-              background-color="#491839"
-              padding="50px 20px"
+              background-color="#fff"
+              padding="40px 20px 30px"
+    />
+    <mj-class name="footer__logo"
+              width="200px"
+              padding="0 0 13px"
+    />
+    <mj-class name="footer__contacts"
+              color="#000"
+              background-color="transparent"
+              border-radius="0px"
+              text-transform="none"
+              font-weight="400"
+              text-align="center"
+              font-size="14px"
+              line-height="20px"
+              width="100%"
+              padding="0"
+              inner-padding="0"
+    />
+    <mj-class name="mailto"
+              inner-padding="0 0 20px"
+    />
+    <mj-class name="mailto_v2"
+              inner-padding="0 0 40px"
+              text-decoration="underline"
+    />
+    <mj-class name="tel"
+              inner-padding="0 0 20px"
+    />
+    <mj-class name="tel_v2"
+              inner-padding="0 0 8px"
+    />
+    <mj-class name="address"
+              inner-padding="0 0 30px"
     />
     <mj-class name="footer__white"
               full-width="full-width"
-              background-color="#fff"
-              padding="35px 20px 30px"
     />
     <mj-class name="footer__offer"
               full-width="full-width"
@@ -374,8 +511,17 @@
     .mw-50{
         max-width: 50px !important;
     }
+    .mw-145{
+        max-width: 145px !important;
+    }
     .mw-150{
         max-width: 150px !important;
+    }
+    .mw-166{
+        max-width: 166px !important;
+    }
+    .mw-175{
+        max-width: 175px !important;
     }
     .mw-184{
         max-width: 184px !important;
@@ -385,6 +531,18 @@
     }
     .mw-202{
         max-width: 202px !important;
+    }
+    .mw-225{
+        max-width: 225px !important;
+    }
+    .mw-230{
+        max-width: 230px !important;
+    }
+    .mw-245{
+        max-width: 245px !important;
+    }
+    .mw-252{
+        max-width: 252.5px !important;
     }
     .mw-260{
         max-width: 260px !important;
@@ -410,6 +568,42 @@
     .mw-330{
         max-width: 330px !important;
     }
+    .mw-360{
+        max-width: 360px !important;
+    }
+    .mw-370{
+        max-width: 370px !important;
+    }
+    .mw-380{
+        max-width: 380px !important;
+    }
+    .mw-400{
+        max-width: 400px !important;
+    }
+    .mw-410{
+        max-width: 410px !important;
+    }
+    .mw-420{
+        max-width: 420px !important;
+    }
+    .mw-430{
+        max-width: 430px !important;
+    }
+    .mw-440{
+        max-width: 440px !important;
+    }
+    .mw-450{
+        max-width: 450px !important;
+    }
+    .mw-460{
+        max-width: 460px !important;
+    }
+    .mw-500{
+        max-width: 500px !important;
+    }
+    .mw-505{
+        max-width: 505px !important;
+    }
     .mw-530{
         max-width: 530px !important;
     }
@@ -428,5 +622,8 @@
     }
     .list li{
         margin-bottom: 10px;
+    }
+    .margin--center{
+        margin: 0 auto;
     }
 </mj-style>

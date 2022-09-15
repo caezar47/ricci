@@ -6,7 +6,7 @@
     </mj-head>
     <mj-body background-color="#fff">
         <!-- Header -->
-        <mj-include path="header/header-white.mjml" />
+        <mj-include path="header/header_base.mjml" />
         <mj-section mj-class="divider20"></mj-section>
 
         <!-- Основой текст -->
@@ -256,6 +256,6 @@
         <mj-section mj-class="divider35" border-bottom="1px solid #6D4661"></mj-section>
 
         <!-- Footer -->
-        <mj-include path="footer/footer-white.mjml" />
+        <mj-include path="footer/footer_base.mjml" />
     </mj-body>
 </mjml>
