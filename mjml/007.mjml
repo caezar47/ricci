@@ -10,12 +10,18 @@
             />
 
             <mj-class name="features__column-left"
-                      width="6%"
                       vertical-align="top"
             />
             <mj-class name="features__column-right"
-                      width="94%"
                       padding-left="10px"
+            />
+            <mj-class name="why__left"
+                      vertical-align="middle"
+                      width="6%"
+            />
+            <mj-class name="why__right"
+                      padding-left="13px"
+                      width="94%"
             />
             <mj-class name="features__name"
                       color="#000"
@@ -84,7 +90,7 @@
             </mj-group>
         </mj-section>
 
-        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="divider25"></mj-section>
         
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%" >
@@ -104,7 +110,7 @@
             </mj-group>
         </mj-section>
 
-        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="divider25"></mj-section>
         
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%" >
@@ -126,7 +132,7 @@
             </mj-group>
         </mj-section>
 
-        <mj-section mj-class="divider20"></mj-section>
+        <mj-section mj-class="divider25"></mj-section>
         
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%" >
@@ -212,7 +218,7 @@
                 <mj-section mj-class="pad--0">
                     <mj-column mj-class="pad--0  mw-195" css-class="dib  mw-195">
                         <mj-button mj-class="button  button__primary"
-                                   href="ttps://premium.ricci.ru/upload/brokers/ricci_garden_quarters.pdf">
+                                   href="https://premium.ricci.ru/upload/brokers/ricci_garden_quarters.pdf">
                             Подобрать варианты
                         </mj-button>
                     </mj-column>
@@ -253,7 +259,7 @@
         <mj-section mj-class="pad--0">
             <mj-column mj-class="pad--0">
                 <mj-image mj-class="img--full" padding-bottom="30px"
-                          src="https://caezar47.github.io/ricci/img/007/product-item3.png"
+                          src="https://caezar47.github.io/ricci/img/007/product-item4.png"
                 />
                 <mj-text mj-class="text-18-24  align--center  fw--700  color--black" padding-bottom="8px">
                     Eight Yards
@@ -320,7 +326,7 @@
         <mj-section mj-class="bg--primary pad--15">
             <mj-column mj-class="pad--0">
                 <mj-text mj-class="text-15-22  align--center  color--white">
-                    Известно о&nbsp;более чем 11&nbsp;новых площадках под застройку премиальной недвижимости в&nbsp;Хамовниках
+                    Известно о&nbsp;более чем 11&nbsp;новых площадках под застройку премиальной&nbsp;недвижимости в&nbsp;Хамовниках
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -347,7 +353,7 @@
                         — 2-й Вражский, 8
                     </mj-text>
                 </mj-column>
-                <mj-column mj-class="pad--0  mw-252" css-class="dib mw-252">
+                <mj-column mj-class="pad--10  mw-252" css-class="dib mw-252">
                     <mj-text mj-class="text-14-22  color--black" padding-bottom="10px">
                         — Тимура Фрунзе, 10
                     </mj-text>
@@ -372,7 +378,6 @@
 
         <mj-section mj-class="divider10"></mj-section>
 
-
         <mj-section mj-class="content" css-class="mw-630">
             <mj-column mj-class="pad--0  mw-500" css-class="dib  mw-500">
                 <mj-button mj-class="button  button__stroke"
@@ -392,48 +397,48 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-        <mj-section mj-class="divider35"></mj-section>
+        <mj-section mj-class="divider30"></mj-section>
 
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%" >
-                <mj-column mj-class="features__column-left">
+                <mj-column mj-class="features__column-left  why__left">
                     <mj-image
                             src="https://caezar47.github.io/ricci/img/tpl/features.png"
                             padding="0"/>
                 </mj-column>
-                <mj-column mj-class="features__column-right">
+                <mj-column mj-class="features__column-right  why__right">
                     <mj-text mj-class="features__text">
                         <span class="fw--700">Ricci premium</span>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <span class="fw--700">ricci</span>
                     </mj-text>
                 </mj-column>
             </mj-group>
         </mj-section>
-        <mj-section mj-class="divider30"></mj-section>
+        <mj-section mj-class="divider25"></mj-section>
 
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%">
-                <mj-column mj-class="features__column-left">
+                <mj-column mj-class="features__column-left  why__left">
                     <mj-image
                             src="https://caezar47.github.io/ricci/img/tpl/features.png"
                             padding="0"/>
                 </mj-column>
-                <mj-column mj-class="features__column-right">
+                <mj-column mj-class="features__column-right  why__right">
                     <mj-text mj-class="features__text">
                         Мы&nbsp;глубоко погружаемся в&nbsp;бизнес наших клиентов и&nbsp;<span class="fw--700">находим эффективные решения</span> в&nbsp;ключевых направлениях недвижимости
                     </mj-text>
                 </mj-column>
             </mj-group>
         </mj-section>
-        <mj-section mj-class="divider30"></mj-section>
+        <mj-section mj-class="divider25"></mj-section>
 
         <mj-section mj-class="content" css-class="mw-630">
             <mj-group width="100%" >
-                <mj-column mj-class="features__column-left">
+                <mj-column mj-class="features__column-left  why__left">
                     <mj-image
                             src="https://caezar47.github.io/ricci/img/tpl/features.png"
                             padding="0"/>
                 </mj-column>
-                <mj-column mj-class="features__column-right">
+                <mj-column mj-class="features__column-right  why__right">
                     <mj-text mj-class="features__text">
                         Работаем с&nbsp;крупнейшими застройщиками столицы: в&nbsp;нашем портфеле более <span class="fw--700">150 проектов</span>
                     </mj-text>

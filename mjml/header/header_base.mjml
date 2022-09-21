@@ -4,8 +4,9 @@
                   src="https://caezar47.github.io/ricci/img/tpl/logotip-black.png"
                   href="https://www.ricci.ru/premium/"
         />
-        <mj-text mj-class="text-14-20  color--black  align--center">
-            <a class="color--black  td--none" href="tel:+74956644667">+7 (495) 664-46-67</a>
-        </mj-text>
+        <mj-button mj-class="header__tel"
+                 href="tel:+74956644667">
+            +7 (495) 664-46-67
+        </mj-button>
     </mj-column>
 </mj-section>
