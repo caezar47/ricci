@@ -1,0 +1,235 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-attributes>
+            <mj-class name="button__primary"
+                      font-weight="700"
+                      inner-padding="20px 14px"
+            />
+        </mj-attributes>
+        <mj-preview>Лучшие лоты уже в продаже &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>⚡️Старт продаж Luzhniki Collection</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header_base.mjml" />
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700" padding-bottom="20px">
+                    Старт продаж Luzhniki Collection
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0" padding-bottom="30px">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/008/main-banner.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <!-- Текст -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-18-25  color--black  align--center" padding-bottom="30px">
+                    Новый жилой квартал <strong>премиум-класса</strong> расположится&nbsp;по&nbsp;адресу <strong>Лужнецкая наб., 2/4</strong>&nbsp;в уникальном месте Хамовников&nbsp;— на&nbsp;первой линии от&nbsp;набережной <br>Москвы-реки, в&nbsp;50&nbsp;м от&nbsp;входа в&nbsp;<strong>СК&nbsp;«Лужники»</strong>&nbsp;— культовое&nbsp;место здоровья и&nbsp;отдыха.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <!-- Преимущества -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/008/adv-item1.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        12&nbsp;клубных домов на&nbsp;территории ландшафтного парка 8&nbsp;Га
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/008/adv-item2.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Частный парк и&nbsp;современная система безопасности
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/008/adv-item3.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Внутренняя инфраструктура только для жителей
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/008/adv-item4.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Более 150 видов планировочных решений
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider15"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/008/adv-item5.png"
+                            padding="0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Двухуровневый подземный паркинг
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Преимущества -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column mj-class="pad--15">
+                <mj-text mj-class="text-15-22 align--center  color--success">
+                    <strong>Ошеломительные виды:</strong> Лужнецкая и&nbsp;Андреевская набережные, природный заказник «Воробьевы горы», СК&nbsp;«Лужники», Москва-Сити, Хамовники, частный парк.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0" padding-bottom="30px">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/008/main-banner2.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <mj-section mj-class="pad--0">
+            <mj-column mj-class="pad--0  mw-395" css-class="dib  mw-395">
+                <mj-button mj-class="button  button__primary"
+                           href="https://kupinastarte.com/luzhnikilot">
+                    Хочу узнать о лотах в продаже
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Позвоните нам -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="contacts__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/004/adv-item3.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="contacts__column-right">
+                    <mj-text mj-class="contacts__name">
+                        <strong>Позвоните нам,</strong> чтобы подобрать отличный вариант для себя в&nbsp;одном из&nbsp;лучших районов Москвы.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Позвоните нам -->
+
+        <mj-section mj-class="divider30"></mj-section>
+
+        <!-- Почему Ricci? -->
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-column padding="0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Почему Ricci?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        <strong>Ricci premium</strong>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <strong>ricci</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        Мы&nbsp;глубоко погружаемся в&nbsp;бизнес наших клиентов и&nbsp;<strong>находим эффективные решения</strong> в&nbsp;ключевых направлениях недвижимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="divider30"></mj-section>
+        <mj-section mj-class="content" css-class="mw-630">
+            <mj-group width="100%" >
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        Работаем с&nbsp;крупнейшими застройщиками столицы: в&nbsp;нашем портфеле <strong>более 150 проектов</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Почему Ricci? -->
+
+        <mj-section mj-class="divider20"></mj-section>
+
+        <!-- Footer -->
+        <mj-include path="footer/footer_base.mjml" />
+    </mj-body>
+</mjml>
