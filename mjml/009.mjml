@@ -1,0 +1,328 @@
+<mjml>
+    <mj-head>
+        <mj-include path="header/head.mjml" />
+        <mj-attributes>
+
+
+            <mj-class name="main__header"
+                      background-color="#A5D652"
+            />
+            <mj-class name="main__header-text"
+                      color="#000"
+            />
+            <mj-class name="button"
+                      border="1px solid #A48B9C"
+                      font-size="14px"
+                      line-height="14px"
+                      inner-padding="14px"
+            />
+            <mj-class name="button__download-element"
+                      text-padding="0 20px 0 0"
+                      icon-padding="20px 10px 20px 20px"
+                      font-weight="700"
+            />
+
+            <mj-class name="button__primary"
+                      font-weight="700"
+                      inner-padding="20px 14px"
+            />
+
+        </mj-attributes>
+        <mj-preview>Коттеджи полностью построены &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-title>🏠Современные дома на Рублевке от 43,9 млн</mj-title>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <!-- Header -->
+        <mj-include path="header/header_base.mjml" />
+        <!-- End's Header -->
+
+        <mj-section mj-class="main__header">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="main__header-text">
+                    Премьера 2022 года на&nbsp;Рублевке
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- Баннер -->
+        <mj-section mj-class="pad--0" padding-bottom="30px">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/009/main-banner.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <!-- Текст -->
+        <mj-section mj-class="content" padding-bottom="30px">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="text-18-22  align--center  fw--700" padding-bottom="30px">
+                    Коттеджный поселок Горки&nbsp;О2
+                </mj-text>
+                <mj-text mj-class="text-15-22  color--black  align--center" padding-bottom="30px">
+                    <strong>Горки О2&nbsp;— не&nbsp;просто точка на&nbsp;карте.</strong> Это одна из&nbsp;немногих локаций, способных объединить жизнь за&nbsp;городом с&nbsp;работой в&nbsp;городе. Приобрести дома можно уже сейчас.
+                </mj-text>
+
+                <mj-section mj-class="pad--0">
+                    <mj-column mj-class="pad--0  mw-190" css-class="dib  mw-190">
+                        <mj-button mj-class="button"
+                                   href="https://kupinastarte.com/gorki1">
+                            Узнать подробнее
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+        <!-- End's Текст -->
+
+        <!-- Преимущества -->
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item1.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Коттеджи полностью построены
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item2.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        17&nbsp;км от&nbsp;МКАД по&nbsp;Рублево-Успенскому шоссе
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item3.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Удобный прямой выезд на&nbsp;платную дорогу
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item4.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Три формата отделки: без отделки, whitebox и&nbsp;с&nbsp;отделкой
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item5.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Проектная площадь домов&nbsp;— 243&nbsp;м²
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item6.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        5-10 минут до&nbsp;любой необходимой инфраструктуры
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="features" padding-bottom="30px" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="features__column-left">
+                    <mj-image
+                            src="https://caezar47.github.io/ricci/img/009/adv-item7.png"
+                            mj-class="pad--0"/>
+                </mj-column>
+                <mj-column mj-class="features__column-right">
+                    <mj-text mj-class="features__name">
+                        Лучшая цена в&nbsp;локации&nbsp;— <strong>от&nbsp;43,9 млн рублей</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Преимущества -->
+
+        <mj-section mj-class="border1--success pad--0">
+            <mj-column padding="15px 25px">
+                <mj-section mj-class="list">
+                    <mj-group>
+                        <mj-column mj-class="list__column-left">
+                            <mj-text mj-class="list__text">—</mj-text>
+                        </mj-column>
+                        <mj-column mj-class="list__column-right">
+                            <mj-text mj-class="list__text">
+                                Пространство домов тщательно <strong>продумано</strong>
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="list">
+                    <mj-group>
+                        <mj-column mj-class="list__column-left">
+                            <mj-text mj-class="list__text">—</mj-text>
+                        </mj-column>
+                        <mj-column mj-class="list__column-right">
+                            <mj-text mj-class="list__text">
+                                В&nbsp;каждом доме предусмотрено 4&nbsp;спальни с&nbsp;с/у и&nbsp;гардеробом
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="list">
+                    <mj-group>
+                        <mj-column mj-class="list__column-left">
+                            <mj-text mj-class="list__text">—</mj-text>
+                        </mj-column>
+                        <mj-column mj-class="list__column-right">
+                            <mj-text mj-class="list__text">
+                                Предусмотрены кладовые помещения, постирочная и&nbsp;зоны хранения
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="list">
+                    <mj-group>
+                        <mj-column mj-class="list__column-left">
+                            <mj-text mj-class="list__text">—</mj-text>
+                        </mj-column>
+                        <mj-column mj-class="list__column-right">
+                            <mj-text mj-class="list__text">
+                                Ничего лишнего&nbsp;— только <strong>удобное пространство</strong> для жизни
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+            </mj-column>
+        </mj-section>
+
+        <!-- Баннер -->
+        <mj-section padding="30px 0">
+            <mj-column mj-class="pad--0">
+                <mj-image mj-class="img--full"
+                          src="https://caezar47.github.io/ricci/img/009/main-banner2.gif"
+                />
+            </mj-column>
+        </mj-section>
+        <!-- End's Баннер -->
+
+        <mj-section mj-class="pad--0" padding-bottom="50px">
+            <mj-column mj-class="pad--0  mw-330" css-class="dib  mw-330">
+                <mj-social mj-class="button__download">
+                    <mj-social-element mj-class="button__download-element"
+                                       src="https://caezar47.github.io/ricci/img/tpl/download.png"
+                                       href="https://kupinastarte.com/gorki2"
+                    >
+                        Скачать презентацию проекта
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+        <!-- Позвоните нам -->
+        <mj-section mj-class="contacts" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="contacts__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/004/adv-item3.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="contacts__column-right">
+                    <mj-text mj-class="contacts__name">
+                        <strong>Позвоните нам,</strong> чтобы подобрать отличный вариант для&nbsp;себя&nbsp;в&nbsp;поселке <strong>Горки&nbsp;О2</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Позвоните нам -->
+
+        <!-- Почему Ricci? -->
+        <mj-section mj-class="content" padding-bottom="30px" css-class="mw-630">
+            <mj-column mj-class="pad--0">
+                <mj-text mj-class="h1  align--center  fw--700  color--black  td--underline">
+                    Почему Ricci?
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="why" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        <strong>Ricci premium</strong>&nbsp;— флагманское направление по&nbsp;подбору недвижимости в&nbsp;рамках экосистемы <strong>ricci</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="why" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        Мы&nbsp;глубоко погружаемся в&nbsp;бизнес наших клиентов и&nbsp;<strong>находим эффективные решения</strong> в&nbsp;ключевых направлениях недвижимости
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="why" padding-bottom="0" css-class="mw-630">
+            <mj-group>
+                <mj-column mj-class="why__column-left">
+                    <mj-image mj-class="pad--0"
+                            src="https://caezar47.github.io/ricci/img/tpl/features.png"
+                            />
+                </mj-column>
+                <mj-column mj-class="why__column-right">
+                    <mj-text mj-class="why__name">
+                        Работаем с&nbsp;крупнейшими застройщиками столицы: в&nbsp;нашем портфеле <strong>более 150 проектов</strong>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <!-- End's Почему Ricci? -->
+
+        <!-- Footer -->
+        <mj-include path="footer/footer_base.mjml" />
+    </mj-body>
+</mjml>

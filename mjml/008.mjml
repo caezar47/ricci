@@ -17,7 +17,7 @@
         <mj-section mj-class="content" css-class="mw-630">
             <mj-column mj-class="pad--0">
                 <mj-text mj-class="h1  align--center  fw--700" padding-bottom="20px">
-                    Старт продаж Luzhniki Collection
+                    Закрытый старт бронирования в Luzhniki Collection
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -145,7 +145,7 @@
             <mj-column mj-class="pad--0  mw-395" css-class="dib  mw-395">
                 <mj-button mj-class="button  button__primary"
                            href="https://kupinastarte.com/luzhnikilot">
-                    Хочу узнать о лотах в продаже
+                    Хочу записаться на встречу
                 </mj-button>
             </mj-column>
         </mj-section>
