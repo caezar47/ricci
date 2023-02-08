@@ -284,7 +284,7 @@
                     </mj-column>
                     <mj-column  mj-class="gallery__column"  css-class="gallery__column">
                         <mj-image mj-class="gallery__img"
-                                  src="https://caezar47.github.io/ricci/img/009/gallery-item2.jpg"
+                                  src="https://caezar47.github.io/ricci/img/011/gallery-item2.jpg"
                         />
                     </mj-column>
                 </mj-section>
