@@ -1,0 +1,349 @@
+<mjml>
+    <mj-head>
+        <mj-title>title</mj-title>
+        <mj-preview>preview &zwnj; &zwnj;&zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;&zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj; &zwnj;</mj-preview>
+        <mj-attributes>
+            <mj-all
+                    font-family="Arial, sans-serif"
+                    color="#000"
+            />
+
+            <mj-class name="header"
+                      padding="15px 5px"
+                      full-width="full-width"
+                      background-color="#fff"
+            />
+            <mj-class name="header__column"
+                      padding="0"
+            />
+            <mj-class name="header__view"
+                      font-family="Helvetica, Arial, sans-serif"
+                      background-color="transparent"
+                      border-radius="0"
+                      inner-padding="0"
+                      font-weight="400"
+                      color="#949494"
+                      text-align="center"
+                      font-size="14px"
+                      line-height="16px"
+                      width="100%"
+                      padding="0 0 33px"
+            />
+            <mj-class name="header__title"
+                      color="#000"
+                      align="center"
+                      font-size="22px"
+                      line-height="28px"
+                      padding="0"
+            />
+
+            <mj-class name="content"
+                      padding="0"
+                      full-width="full-width"
+                      background-color="#56738C"
+            />
+            <mj-class name="content__column"
+                      padding="0"
+            />
+            <mj-class name="content__banner"
+                      padding="0"
+                      width="600px"
+            />
+            <mj-class name="content__title"
+                      color="#fff"
+                      font-size="24px"
+                      line-height="32px"
+                      padding="0 5px"
+                      font-weight="300"
+            />
+
+            <mj-class name="line"
+                      background-color="transparent"
+                      border-radius="0"
+                      inner-padding="0"
+                      align="left"
+                      padding="20px 0 30px"
+                      width="100px"
+                      border-bottom="1px solid #FFFCAA"
+            />
+            <mj-class name="line__full"
+                      padding="10px 0 68px"
+                      width="100%"
+            />
+
+            <mj-class name="ul"
+                      padding="0 5px 5px"
+            />
+            <mj-class name="ul__column"
+                      padding="0"
+                      vertical-align="middle"
+            />
+            <mj-class name="ul__column-left"
+                      width="5%"
+            />
+            <mj-class name="ul__column-right"
+                      padding-left="20px"
+                      width="95%"
+            />
+            <mj-class name="ul__img"
+                      width="32px"
+                      padding="0"
+            />
+            <mj-class name="ul__name"
+                      padding="0"
+                      font-size="18px"
+                      line-height="22px"
+                      color="#fff"
+            />
+
+            <mj-class name="gallery"
+                      padding="0"
+            />
+            <mj-class name="gallery__column"
+                      padding="2px"
+                      width="300px"
+            />
+            <mj-class name="gallery__img"
+                      padding="0"
+                      width="296px"
+            />
+
+            <mj-class name="features"
+                      padding="20px 0 0"
+            />
+            <mj-class name="features__column"
+                      padding="10px"
+                      width="200px"
+            />
+            <mj-class name="features__img"
+                      padding="0 0 15px"
+                      width="46px"
+            />
+            <mj-class name="features__title"
+                      padding="0"
+                      font-size="15px"
+                      line-height="18px"
+                      color="#fff"
+                      align="center"
+            />
+
+            <mj-class name="footer"
+                      padding="50px 5px 40px"
+                      full-width="full-width"
+                      background-color="#fff"
+            />
+            <mj-class name="footer__column"
+                      padding="0"
+            />
+            <mj-class name="footer__title"
+                      padding="0 0 35px"
+                      font-size="14px"
+                      line-height="16px"
+                      color="#111517"
+                      align="center"
+                      text-decoration="underline"
+                      font-weight="700"
+            />
+            <mj-class name="footer__img"
+                      padding="0 0 10px"
+                      width="86px"
+            />
+            <mj-class name="footer__name"
+                      padding="0 0 10px"
+                      font-size="14px"
+                      line-height="20px"
+                      color="#000"
+                      align="center"
+                      font-weight="700"
+            />
+
+            <mj-class name="footer__contacts"
+                      background-color="transparent"
+                      border-radius="0"
+                      inner-padding="0"
+                      padding="0 0 10px"
+                      font-size="14px"
+                      line-height="20px"
+            />
+        </mj-attributes>
+        <mj-style inline="inline">
+            .header__view span {
+                text-decoration: underline;
+            }
+            .header__title strong{
+                text-transform: uppercase;
+            }
+            .gallery__column {
+                display: inline-block !important;
+                width: 100% !important;
+                max-width: 300px!important;
+            }
+            .features__column {
+                display: inline-block !important;
+                width: 100% !important;
+                max-width: 200px!important;
+            }
+            .features__title strong{
+                text-transform: uppercase;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#fff">
+        <mj-section mj-class="header">
+            <mj-column mj-class="header__column">
+                <mj-button mj-class="header__view" css-class="header__view"
+                           href="#">
+                    Письмо отображается некорректно? <span>Откройте его в&nbsp;браузере</span>
+                </mj-button>
+                <mj-text mj-class="header__title" css-class="header__title">
+                    <strong>Инвестиционное предложение</strong> <br>
+                    Продажа офисов от&nbsp;32&nbsp;кв.м.&nbsp;в&nbsp;БЦ&nbsp;Эйлер
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="content">
+            <mj-column mj-class="content__column">
+                <mj-image mj-class="content__banner"
+                          src="https://caezar47.github.io/ricci/img/011/main-banner.jpg"
+                />
+
+                <mj-text mj-class="content__title">
+                    <strong>Ввод в&nbsp;эксплуатацию&nbsp;— декабрь 2023г.</strong><br/>
+                    <br/>
+                    Лучшее инвестиционное предложение<br/>
+                    на&nbsp;рынке строящихся&nbsp;<strong>БЦ класса А</strong>
+                </mj-text>
+
+                <mj-button mj-class="line"></mj-button>
+
+                <mj-section mj-class="ul">
+                    <mj-group>
+                        <mj-column mj-class="ul__column  ul__column-left">
+                            <mj-image mj-class="ul__img"
+                                      src="https://caezar47.github.io/ricci/img/011/marker.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="ul__column  ul__column-right">
+                            <mj-text mj-class="ul__name">
+                                Офисные блоки от&nbsp;<strong>32&nbsp;кв.м.</strong>
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="ul">
+                    <mj-group>
+                        <mj-column mj-class="ul__column  ul__column-left">
+                            <mj-image mj-class="ul__img"
+                                      src="https://caezar47.github.io/ricci/img/011/marker.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="ul__column ul__column-right">
+                            <mj-text mj-class="ul__name">
+                                Размер инвестиции от&nbsp;<strong>14&nbsp;млн. рублей</strong>
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="ul">
+                    <mj-group>
+                        <mj-column mj-class="ul__column  ul__column-left">
+                            <mj-image mj-class="ul__img"
+                                      src="https://caezar47.github.io/ricci/img/011/marker.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="ul__column ul__column-right">
+                            <mj-text mj-class="ul__name">
+                                Первоначальный взнос от&nbsp;<strong>2&nbsp;100&nbsp;000 рублей</strong>
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+                <mj-section mj-class="ul">
+                    <mj-group>
+                        <mj-column mj-class="ul__column  ul__column-left">
+                            <mj-image mj-class="ul__img"
+                                      src="https://caezar47.github.io/ricci/img/011/marker.png"
+                            />
+                        </mj-column>
+                        <mj-column mj-class="ul__column ul__column-right">
+                            <mj-text mj-class="ul__name">
+                                Рост стоимости актива после ввода<br/>
+                                в&nbsp;эксплуатацию до&nbsp;<strong>45%</strong>
+                            </mj-text>
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+
+                <mj-button mj-class="line line__full"></mj-button>
+
+                <mj-section mj-class="gallery">
+                    <mj-column  mj-class="gallery__column"  css-class="gallery__column">
+                        <mj-image mj-class="gallery__img"
+                                  src="https://caezar47.github.io/ricci/img/011/gallery-item1.jpg"
+                        />
+                    </mj-column>
+                    <mj-column  mj-class="gallery__column"  css-class="gallery__column">
+                        <mj-image mj-class="gallery__img"
+                                  src="https://caezar47.github.io/ricci/img/009/gallery-item2.jpg"
+                        />
+                    </mj-column>
+                </mj-section>
+
+                <mj-section mj-class="features">
+                    <mj-column  mj-class="features__column"  css-class="features__column">
+                        <mj-image mj-class="features__img"
+                                  src="https://caezar47.github.io/ricci/img/011/features-item1.png"
+                        />
+                        <mj-text mj-class="features__title" css-class="features__title">
+                            <strong>Окупаемость</strong><br/>
+                            от&nbsp;7&nbsp;лет
+                        </mj-text>
+                    </mj-column>
+                    <mj-column  mj-class="features__column"  css-class="features__column">
+                        <mj-image mj-class="features__img"
+                                  src="https://caezar47.github.io/ricci/img/011/features-item2.png"
+                        />
+                        <mj-text mj-class="features__title" css-class="features__title">
+                            <strong>Безопасность</strong><br/>
+                            ДДУ + Эскроу
+                        </mj-text>
+                    </mj-column>
+                    <mj-column  mj-class="features__column"  css-class="features__column">
+                        <mj-image mj-class="features__img"
+                                  src="https://caezar47.github.io/ricci/img/011/features-item3.png"
+                        />
+                        <mj-text mj-class="features__title" css-class="features__title">
+                            <strong>Финансирование</strong><br/>
+                            Дом&nbsp;РФ
+                        </mj-text>
+                    </mj-column>
+                </mj-section>
+
+                <mj-button mj-class="line line__full" padding="20px 0 60px"></mj-button>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="footer">
+            <mj-column mj-class="footer__column">
+                <mj-text mj-class="footer__title">
+                    Получить консультацию вы можете у менеджера
+                </mj-text>
+                <mj-image mj-class="footer__img"
+                          src="https://caezar47.github.io/ricci/img/011/manager.png"
+                />
+                <mj-text mj-class="footer__name">
+                    Елена Морозова
+                </mj-text>
+                <mj-button mj-class="footer__contacts"
+                           href="tel:+79265793839">
+                    +7&nbsp;(926)&nbsp;579&#8209;38&#8209;39
+                </mj-button>
+                <mj-button mj-class="footer__contacts"
+                           href="mailto:Elena.Morozova@ricci.ru">
+                    Elena.Morozova@ricci.ru
+                </mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
